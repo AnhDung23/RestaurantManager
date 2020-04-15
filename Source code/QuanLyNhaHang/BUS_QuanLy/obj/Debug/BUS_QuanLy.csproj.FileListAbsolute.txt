@@ -1,0 +1,10 @@
+D:\FPT\CN5\PRN292\Assignment\QuanLyNhaHang\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\FPT\CN5\PRN292\Assignment\QuanLyNhaHang\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\FPT\CN5\PRN292\Assignment\QuanLyNhaHang\BUS_QuanLy\bin\Debug\DAO_QuanLy.dll
+D:\FPT\CN5\PRN292\Assignment\QuanLyNhaHang\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\FPT\CN5\PRN292\Assignment\QuanLyNhaHang\BUS_QuanLy\bin\Debug\DAO_QuanLy.pdb
+D:\FPT\CN5\PRN292\Assignment\QuanLyNhaHang\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\FPT\CN5\PRN292\Assignment\QuanLyNhaHang\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojAssemblyReference.cache
+D:\FPT\CN5\PRN292\Assignment\QuanLyNhaHang\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+D:\FPT\CN5\PRN292\Assignment\QuanLyNhaHang\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\FPT\CN5\PRN292\Assignment\QuanLyNhaHang\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
